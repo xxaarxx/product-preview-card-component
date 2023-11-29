@@ -137,7 +137,7 @@ body {
         height: 95%;
     }
     .p-img {
-        content: url("/images/image-product-mobile.jpg");
+        content: url("images/image-product-mobile.jpg");
         width: 100%;
         border-top-left-radius: 1rem;
         border-top-right-radius: 1rem;
